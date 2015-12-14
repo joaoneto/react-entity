@@ -18,6 +18,9 @@
     "React",
     "Entities"
   ],
+  "directories": {
+    "example": "example"
+  },
   "author": "Scup",
   "license": "MIT",
   "bugs": {
